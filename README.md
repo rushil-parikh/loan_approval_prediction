@@ -81,6 +81,14 @@ Loan approval is a pivotal process for financial institutions, balancing custome
    ```bash
    git clone <repository-url>
 
+2. Install Dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+2. Install Dependencies:
+   ```bash
+   jupyter notebook loan_approval_prediction.ipynb
+
 ### 📈 Future Improvements
 - Experiment with advanced techniques like deep learning.
 - Address class imbalance with SMOTE or similar methods.
